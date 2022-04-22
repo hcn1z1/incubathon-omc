@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>archeology.png</file>
+    <file>notification.png</file>
+    <file>check.png</file>
+    <file>close.png</file>
+    <file>info.png</file>
+    <file>notfound.png</file>
+    <file>down.png</file>
+    <file>notfound_blue.png</file>
+    <file>up.png</file>
+  </qresource>
+</RCC>
